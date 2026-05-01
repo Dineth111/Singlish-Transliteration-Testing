@@ -30,9 +30,9 @@ playwright install
 
 ## How to Run
 
-**Step 1 — Add test cases to the Excel file:**
+**Step 1 — Place the Excel file in the same folder as the script:**
 
-Open `Assignment_1_-_Test_cases.xlsx` and fill in the following columns:
+Place `Assignment_1_-_Test_cases.xlsx` in the same directory as `test_automation.py`. Make sure the following columns are filled:
 - `Test Case ID` (e.g., Neg_0001)
 - `Input length type` (S, M, or L)
 - `Input` (Singlish text)
@@ -56,7 +56,6 @@ After the script finishes, reopen the Excel file and verify that the `Actual out
 ```
 Singlish-Transliteration-Testing/
 ├── test_automation.py        # Main Playwright automation script
-├── Assignment_1_-_Test_cases.xlsx  # Test cases Excel file
 └── README.md                 # Project documentation
 ```
 
