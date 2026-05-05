@@ -55,8 +55,8 @@ After the script finishes, reopen the Excel file and verify that the `Actual out
 
 ```
 Singlish-Transliteration-Testing/
-├── test_automation.py        # Main Playwright automation script
-├── Assignment 1 - Test cases  #excle file 
+├── Assighment 1_Test_cases      #test cases excle file
+├── Assighment_1-Tesr_case.py     # Main Playwright automation script
 └── README.md                 # Project documentation
 ```
 
